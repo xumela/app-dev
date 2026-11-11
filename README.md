@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# My Favorite Movie: Tangled
+# My Favorite Movie: Tangledd
 ![Tangled Movie Poster](https://upload.wikimedia.org/wikipedia/en/a/a8/Tangled_poster.jpg)
 ## About the Movie
 **Tangled** is one of my favorite Disney animated movies. It was released in 2010 and tells the story of a young princess named Rapunzel, who has magical long hair. She has spent most of her life locked inside a tower until she meets a thief named Flynn Rider, who helps her discover the world outside.
